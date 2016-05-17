@@ -11,6 +11,7 @@ namespace ConsoleApplication11
         static void Main(string[] args)
         {
             var t = 2333;
+            int c4;
         }
     }
 }
